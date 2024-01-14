@@ -1,4 +1,4 @@
-# Hi, I am Emirhan
+# Hi, I am Emirhan 🖐
 I am Front-end developer and graphic designer. I am also a <br>software engineering student at Samsun University.
 
 
