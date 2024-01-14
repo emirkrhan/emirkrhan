@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, I am Front-end developer and graphic designer. I am also a <br>software engineering student at Samsun University.
+# Hi, I am Emirhan
+I am Front-end developer and graphic designer. I am also a <br>software engineering student at Samsun University.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emirkrhan&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
