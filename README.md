@@ -1,4 +1,4 @@
-# Hi, I am Emirhan 🖐
+# Hi, I am Emirhan 🖐 [![smithery badge](https://smithery.ai/badge/@emirkrhan/movie-mcp)](https://smithery.ai/server/@emirkrhan/movie-mcp)
 I am Front-end developer and graphic designer. I am also a <br>software engineering student at Samsun University.
 
 
